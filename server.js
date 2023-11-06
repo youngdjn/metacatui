@@ -1,4 +1,4 @@
-/* Simple MetacatUI development server.
+/* Simple MetacatUI development server. test
 
 You'll need node.js and express.js to run this.
 
